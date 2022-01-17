@@ -28,6 +28,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-- &nbsp; 
   <a href="https://www.linkedin.com/in/pedro-moita-33a45222b/">Linkedin</a>
 </p>
