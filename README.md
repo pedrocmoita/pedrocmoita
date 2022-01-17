@@ -22,6 +22,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=eclipse-ide&logoColor=C0FF02)
+  
+<img src="https://github-readme-stats.vercel.app/api?username=pedrocmoita&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
