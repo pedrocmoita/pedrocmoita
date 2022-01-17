@@ -6,6 +6,8 @@
 - 🌱 &nbsp; Front-end enthusiast. Learning more about SASS, Figma, Blender. 
 - 💼 &nbsp; Working on a personal portefolio website.
 
+<hr>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
