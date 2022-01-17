@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying IT at University of Cience in Lisbon, Portugal.
+- 🎓 &nbsp; Studying IT at University of Cience in Lisbon, Portugal. @FCUL
 - 🌱 &nbsp; Front-end enthusiast. Learning more about SASS, Figma and Blender.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
