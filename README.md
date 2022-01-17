@@ -3,7 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying IT at University of Cience in Lisbon, Portugal. @FCUL
-- 🌱 &nbsp; Front-end enthusiast. Learning more about SASS, Figma and Blender.
+- 🌱 &nbsp; Front-end enthusiast. Learning more about SASS, Figma, Blender. 
+- 💼 &nbsp; Working on a personal portefolio website.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -14,8 +15,6 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
