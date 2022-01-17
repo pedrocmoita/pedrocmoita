@@ -24,8 +24,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=eclipse-ide&logoColor=C0FF02)
 
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
