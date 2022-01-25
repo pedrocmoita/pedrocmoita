@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying IT at University of Cience in Lisbon, Portugal. @FCUL
-- 🌱 &nbsp; Front-end enthusiast. Learning more about SASS, Figma, Blender. 
+- 🌱 &nbsp; Front-end enthusiast. Learning more about SASS, Figma. 
 - 💼 &nbsp; Working on a personal portefolio website.
 
 <hr>
