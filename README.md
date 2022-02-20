@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying IT at University of Cience in Lisbon, Portugal. @FCUL
-- 🌱 &nbsp; Front-end enthusiast. Learning more about SASS, Figma. 
+- 🌱 &nbsp; Front-end enthusiast. Learning more about Bootstrap, Sass and Figma. 
 - 💼 &nbsp; Working on a personal portefolio website.
 
 <hr>
@@ -31,6 +31,9 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocmoita&layout=compact&langs_count=16&theme=radical" />
 </div>
 <hr>
+
+<h3>Watch my latest project <a href="https://pmoita.w3spaces.com">here</a>.
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
