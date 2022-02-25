@@ -37,7 +37,6 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p>
  - <h4><a href="https://codepen.io/pedrocmoita"> CodePen</a></h4>
  - <h4><a href="https://www.linkedin.com/in/pedro-moita-33a45222b/"> Linkedin</a></h4>
-</p>
+
