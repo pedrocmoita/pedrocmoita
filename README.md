@@ -33,10 +33,10 @@
 <hr>
 
 <h3>Watch my latest project <a href="https://pmoita.w3spaces.com">here</a>.
+<h3>Watch some of my smaller projects in CodePen <a href="https://codepen.io/pedrocmoita">here</a>.
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
- - <h4><a href="https://codepen.io/pedrocmoita"> CodePen</a></h4>
  - <h4><a href="https://www.linkedin.com/in/pedro-moita-33a45222b/"> Linkedin</a></h4>
 
