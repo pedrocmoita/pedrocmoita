@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying IT at University of Cience in Lisbon, Portugal. @FCUL
-- 🌱 &nbsp; Front-end enthusiast. Learning more about PHP, Figma, Tailwind css and SCSS. 
+- 🌱 &nbsp; Front-end enthusiast. Learning more about PHP, Figma and Tailwind. 
 - 💼 &nbsp; Working on a personal portefolio website.
 
 <hr>
