@@ -42,7 +42,7 @@
 
 <hr>
 
- - <h3>Watch my latest project <a href="https://pmoita.w3spaces.com">here</a>.
+ - <h3>Watch my latest project <a href="https://pedrocmoita.github.io/WebsiteLayout/">here</a>.
  - <h3>Watch some of my smaller projects in CodePen <a href="https://codepen.io/pedrocmoita">here</a>.
 
  <hr>
