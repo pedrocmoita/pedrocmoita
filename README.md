@@ -4,7 +4,6 @@
 
 - 🎓 &nbsp; Studying IT at University of Cience in Lisbon, Portugal. @FCUL
 - 🌱 &nbsp; Front-end Dev & Web Designer. Learning more about React and Tailwind. 
-- 💼 &nbsp; Working on a personal portefolio website.
 
 <hr>
 
