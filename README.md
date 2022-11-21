@@ -34,14 +34,6 @@
   
 <hr>
 
-<div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrocmoita&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocmoita&layout=compact&langs_count=16&theme=radical" />
-</div>
-
-
-<hr>
-
  - <h3>Watch my latest project <a href="https://pedrocmoita.github.io/RealStateWebsite/">here</a>.
  - <h3>Watch some of my smaller projects in CodePen <a href="https://codepen.io/pedrocmoita">here</a>.
 
