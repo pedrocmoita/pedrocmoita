@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying IT at University of Cience in Lisbon, Portugal. @FCUL
-- 🌱 &nbsp; Front-end Dev & Web Designer. Learning more about React and Tailwind. 
+- 🌱 &nbsp; Front-end Dev & Web Designer. Learning more about NextJS and GSAP. 
 
 <hr>
 
